@@ -3,10 +3,9 @@ author: Alyson
 email: amatecki2@ebnet.org
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Hai this is my blog website with stuff about me on it. Poggers.
-
+  Hello! This is my blog website with stuff about me on it. 
 # social links
-twitter_username: aly.datroller
+instagram_username: aly.datroller
 github_username:  amatecki2
 
 show_excerpts: true # set to false to remove excerpts on the homepage
