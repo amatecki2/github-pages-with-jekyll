@@ -1,7 +1,7 @@
 title: Information About Alyson
 author: Alyson
 email: amatecki2@ebnet.org
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 description: > # this means to ignore newlines until "baseurl:"
   Hello! This is my website with stuff about me on it. 
 # social links
