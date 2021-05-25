@@ -1,5 +1,5 @@
 ---
-title: "Alyson's Website :>"
+title: "Alyson's Website"
 ---
 
 Hi. My name is Alyson Matecki and I am a junior in Highschool. I enjoy baking, cooking, and walking. 
